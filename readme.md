@@ -1,11 +1,10 @@
 # Hi there, I'm Quyet 👋 
 
-### Connect with me:
+<!-- ### Connect with me:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1645581373~hmac=6cc77f74e1c6aefa0b496397aefb1e46" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670236.png?token=exp=1645581400~hmac=160f0693851e7a50654687175cd40336" style="padding-right:10px;" />\\
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670236.png?token=exp=1645581400~hmac=160f0693851e7a50654687175cd40336" style="padding-right:10px;" />\\ -->
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
