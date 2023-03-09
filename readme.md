@@ -17,10 +17,7 @@
 
 ### 📚 Github Status
 
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyetlv12&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=quyetlv12&show_icons=true&theme=tokyonight" height="165">
-</p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=quyetlv12&theme=aura&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quyetlv12)
