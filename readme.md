@@ -19,6 +19,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=quyetlv12&theme=aura&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
+
+<!-- https://streak-stats.demolab.com/demo/ -->
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quyetlv12)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lvqfx/)
