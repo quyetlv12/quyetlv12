@@ -19,7 +19,7 @@
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quyetlv12&theme=dracula)
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quyetlv12&theme=dracula)
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quyetlv12&theme=dracula
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quyetlv12&theme=dracula)
 
 
 
