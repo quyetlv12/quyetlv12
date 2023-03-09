@@ -1,1 +1,1 @@
-console.log("123");
+document.querySelector('#123')
