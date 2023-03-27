@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Quyết</h1>
 <h3 align="center">I am a Frontend Developer</h3>
-[![View profile](https://visitcount.itsvg.in/api?id=quyetlv12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
