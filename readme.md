@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Quyết</h1>
 <h3 align="center">I am a Frontend Developer</h3>
-[![](https://visitcount.itsvg.in/api?id=quyetlv12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -24,9 +23,11 @@
 
 
 
+
 <!-- https://streak-stats.demolab.com/demo/ -->
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quyetlv12)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lvqfx/)
+[![View profile](https://visitcount.itsvg.in/api?id=quyetlv12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
