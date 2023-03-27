@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Quyết</h1>
 <h3 align="center">I am a Frontend Developer</h3>
-<div align="center">[![](https://visitcount.itsvg.in/api?id=quyetlv12)](https://visitcount.itsvg.in)</div>
+<div align="center">[![](https://visitcount.itsvg.in/api?id=quyetlv12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</div>
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
