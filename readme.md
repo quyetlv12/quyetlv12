@@ -28,6 +28,6 @@
 ### 🌐️ Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quyetlv12)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lvqfx/)
-[![View profile](https://visitcount.itsvg.in/api?id=quyetlv12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=quyetlv12&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
