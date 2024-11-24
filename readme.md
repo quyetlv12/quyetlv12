@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quyết</h1>
-<h3 align="center">I am a Frontend Developer</h3>
+<h3 align="center">I am a FullStack Developer</h3>
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
